@@ -1,2 +1,2 @@
 # fancytodo-server
-server untuk fanct todo
+server untuk fancy todo
