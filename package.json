@@ -1,0 +1,25 @@
+{
+  "name": "fancytodo-server",
+  "version": "1.0.0",
+  "description": "server untuk fanct todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSBL/fancytodo-server.git"
+  },
+  "author": "amil-hasbala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HSBL/fancytodo-server/issues"
+  },
+  "homepage": "https://github.com/HSBL/fancytodo-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
